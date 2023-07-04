@@ -381,7 +381,7 @@ footer {
     width: 100%;
   }
   .ATLAS {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     display: flex;
     justify-content: center;
     color: #1B4079;
@@ -658,7 +658,7 @@ footer {
     width: 100%;
   }
   .ATLAS {
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     display: flex;
     justify-content: center;
     color: #1B4079;
@@ -924,7 +924,7 @@ footer {
     margin: 2rem 0rem 0rem 10rem;
   }
   .formulario {
-    width: 50rem;
+    width: 100%;
     background-color: #9F9FED;
     padding: 4rem;
     margin: auto;
